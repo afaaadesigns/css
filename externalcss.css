@@ -1,0 +1,21 @@
+body{
+	background-color: purple;
+}
+input{
+	border-radius:40px;
+	width: 100%
+	border:3px solid orange;
+
+}
+/*legend{
+	width: 100px;
+	color: red;
+	size: 45px;
+}*/
+table{
+	margin-top: 50px;
+	margin-right: 200px;
+	margin-bottom: 200px;
+	background-color: transparent;
+
+}
